@@ -4,6 +4,5 @@ This a simple 404 page for website
 <a href="https://truesolusi.blogspot.com">Show demo</a>
 </br>
 </br>
-  <img
-    src="https://github.com/setiawanclan23/simple404page/blob/ed74cc7a24374adada082a0d9181fcf860d4d54c/photo1686314088.jpeg"
+  <img   src="https://github.com/setiawanclan23/forestlandingpage/blob/eae13ea3804bd97ffb4cf5aa96e083695d3c48c0/photo1675078859.jpeg"
   />
